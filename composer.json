@@ -1,5 +1,6 @@
 {
     "name": "redclov3r/aether",
     "require": {
+        "twig/twig": "1.*"
     }
 }
